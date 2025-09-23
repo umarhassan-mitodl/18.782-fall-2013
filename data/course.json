@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "dc046984-b48e-7bad-8087-9a909e749982",
+  "instructors": {
+    "content": [
+      "2bd46f89-da99-8df3-5ac3-14ac12789f96"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9bd56022-0dd2-6c30-7893-44c80171e4e7",
+    "website": "18-782-introduction-to-arithmetic-geometry-fall-2013"
+  },
+  "course_title": "Introduction to Arithmetic Geometry",
+  "course_description": "This course is an introduction to arithmetic geometry, a subject that lies at the intersection of algebraic geometry and number theory. Its primary motivation is the study of classical {{% resource_link \"a4b8e932-16ca-4de6-a774-3ff55e19c088\" \"Diophantine problems\" %}} from the modern perspective of algebraic geometry.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.782",
+  "course_image_thumbnail": {
+    "content": "57c5181f-83f1-508a-da68-48617f2a6b01",
+    "website": "18-782-introduction-to-arithmetic-geometry-fall-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Open Textbooks",
+    "Instructor Insights"
+  ],
+  "site_uid": "79e4830e-41e4-4116-838e-101f86ceff6f",
+  "site_short_id": "18.782-fall-2013",
+  "site_url_path": "courses/18-782-introduction-to-arithmetic-geometry-fall-2013",
+  "title": "Course Metadata"
+}
