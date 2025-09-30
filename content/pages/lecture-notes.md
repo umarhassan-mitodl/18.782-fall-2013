@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics and the lecture
   notes for each session of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ title: Lecture Notes
 uid: 276fb8e9-5426-093b-04af-2643fa3757df
 ---
 
-Some of the theorems presented in lecture will be demonstrated using the {{% resource_link "3edf1162-8c8c-4db8-9ae7-79bca0df608c" "Sage" %}} computer algebra system, which is based on {{% resource_link "9fba2ed9-203e-4daf-8fe6-163a04f91f99" "Python™" %}}. You can download a copy of Sage to run on your own machine if you wish, or create an account for free on the {{% resource_link "417ca1ca-97f5-4a7a-a996-bf0bab7cb3db" "SageMathCloud™" %}}.
+Some of the theorems presented in lecture will be demonstrated using the [Sage](http://sagemath.org/) computer algebra system, which is based on [Python™](http://www.python.org/). You can download a copy of Sage to run on your own machine if you wish, or create an account for free on the [SageMathCloud™](https://cloud.sagemath.com/?utm_source=sagemath.org&utm_medium=banner).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -74,7 +76,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Ostrowski's Theorem for Number Fields (No lecture notes but see {{% resource_link "30f4cff7-8046-4584-9be8-90cae0399ee3" "Ostrowski's Theorem for Number Fields (PDF)" %}} by Keith Conrad)
+Ostrowski's Theorem for Number Fields (No lecture notes but see [Ostrowski's Theorem for Number Fields (PDF)](http://www.math.uconn.edu/~kconrad/blurbs/gradnumthy/ostrowskinumbfield.pdf) by Keith Conrad)
 {{< tdclose >}}
 
 {{< trclose >}}

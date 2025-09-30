@@ -23,9 +23,9 @@ READINGS
 Introduction to Arithmetic Geometry
 {{< tdclose >}}{{< tdopen >}}
 
-Ellenberg, Jordan S. {{% resource_link "6ad72847-4ff2-49be-a77e-94f30ddc1f08" "\"Arithmetic Geometry.\" (PDF)" %}}
+Ellenberg, Jordan S. ["Arithmetic Geometry." (PDF)](http://press.princeton.edu/chapters/gowers/gowers_IV_5.pdf)
 
-Poonen, Bjorn. {{% resource_link "ac0dc5d2-a2ed-4ff4-89f0-714eebca1a64" "\"Computing Rational Points on Curves\" (PDF)" %}}
+Poonen, Bjorn. ["Computing Rational Points on Curves" (PDF)](http://math.mit.edu/~poonen/papers/millennial.pdf)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -33,9 +33,9 @@ Poonen, Bjorn. {{% resource_link "ac0dc5d2-a2ed-4ff4-89f0-714eebca1a64" "\"Compu
 Rational Points on Conics
 {{< tdclose >}}{{< tdopen >}}
 
-Cremona, J. E., and D. Rusin. "{{% resource_link "32c7aa38-cc5b-4bee-8c5f-fcdcda8437e4" "Efficient solution of rational conics" %}}." *Mathematics of Computation* 72 (2003): 1417–41.
+Cremona, J. E., and D. Rusin. "[Efficient solution of rational conics](http://dx.doi.org/10.1090/S0025-5718-02-01480-1)." *Mathematics of Computation* 72 (2003): 1417–41.
 
-Cochrane, T., and P. Mitchell. "{{% resource_link "b0c52151-9e0a-4e2d-a066-fe6fbcb82411" "Small Solutions of the Legendre Equation" %}}." *Journal of Number Theory* 70, no. 1 (1998): 62–6.
+Cochrane, T., and P. Mitchell. "[Small Solutions of the Legendre Equation](http://dx.doi.org/10.1006/jnth.1998.2221)." *Journal of Number Theory* 70, no. 1 (1998): 62–6.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -43,13 +43,13 @@ Cochrane, T., and P. Mitchell. "{{% resource_link "b0c52151-9e0a-4e2d-a066-fe6fb
 Finite Fields
 {{< tdclose >}}{{< tdopen >}}
 
-Berlekamp, Elwyn R. "{{% resource_link "b4161362-e74c-4fbc-9097-ee1adfc64e4e" "Factoring polynomials over large ﬁnite ﬁelds" %}}." *Mathematics of Computation* 24 (1970): 713–35.
+Berlekamp, Elwyn R. "[Factoring polynomials over large ﬁnite ﬁelds](http://dx.doi.org/10.1090/S0025-5718-1970-0276200-X)." *Mathematics of Computation* 24 (1970): 713–35.
 
-Gathen, Joachim von zur, and Jürgen Garhard. *Modern Computer Algebra*. 3rd ed. Cambridge University Press, 2013. ISBN: 9781139856065. \[Preview with {{% resource_link "3d8ae8ec-4575-4b30-a87a-c96360f96076" "Google Books" %}}\]
+Gathen, Joachim von zur, and Jürgen Garhard. *Modern Computer Algebra*. 3rd ed. Cambridge University Press, 2013. ISBN: 9781139856065. \[Preview with [Google Books](http://books.google.com/books?id=AE5PN5QGgvUC&printsec=frontcover)\]
 
-O. Rabin, Michael.{{% resource_link "900458e0-d519-42f1-af87-9d9dc87af77f" "\"Probabilistic Algorithms in Finite Fields" %}}." *SIAM Journal of Computing* 9, no. 2 (1980): 273–80.
+O. Rabin, Michael.["Probabilistic Algorithms in Finite Fields](https://epubs.siam.org/doi/10.1137/0209024)." *SIAM Journal of Computing* 9, no. 2 (1980): 273–80.
 
-Rousseau, G. "{{% resource_link "68ea3145-a705-4adc-9b04-40033b5b6078" "On the Quadratic Reciprocity Law" %}}." *Journal of the Australian Mathematical Society (Series A)* 51, no. 3 (1991): 423–5.
+Rousseau, G. "[On the Quadratic Reciprocity Law](http://dx.doi.org/10.1017/S1446788700034583)." *Journal of the Australian Mathematical Society (Series A)* 51, no. 3 (1991): 423–5.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -74,7 +74,7 @@ Ostrowski's Theorem for Number Fields
 {{< tdclose >}}{{< tdopen >}}
 Product Formula for Number Fields, Completions
 {{< tdclose >}}{{< tdopen >}}
-Milne, J. S. "{{% resource_link "df0c26fe-b10f-4150-9982-9c14d8942f9a" "Algebraic Number Theory" %}}." 2013.
+Milne, J. S. "[Algebraic Number Theory](http://www.jmilne.org/math/CourseNotes/ant.html)." 2013.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -107,24 +107,24 @@ Field Extensions, Algebraic Sets
 
 Artin, M. *Algebra*. 2nd ed. Pearson Education, 2010. ISBN: 9780132413770.
 
-Knapp, A. {{% resource_link "e0987535-4784-445a-a926-38cfddd9d12b" "*Basic Algebra*" %}}. Birkhäuser, 2006. ISBN: 9780817632489. \[Previwe with {{% resource_link "98ce76fa-a36c-4e6b-9113-69e5c5e469bd" "Google Books" %}}\]
+Knapp, A. [*Basic Algebra*](http://dx.doi.org/10.1007/978-0-8176-4529-8). Birkhäuser, 2006. ISBN: 9780817632489. \[Previwe with [Google Books](http://books.google.com/books?id=NSXCaGSVaX4C&printsec=frontcover)\]
 
-———. {{% resource_link "2025e9dc-c698-443d-b572-0cbfb6bbd810" "*Advanced Algebra*" %}}. Birkhäuser, 2007. ISBN: 9780817645229.
+———. [*Advanced Algebra*](http://dx.doi.org/10.1007/978-0-8176-4613-4). Birkhäuser, 2007. ISBN: 9780817645229.
 
-Milne, J. S. {{% resource_link "22e70da9-e632-4ec0-bd87-25130b172de6" "\"Fields and Galois Theory.\" (PDF)" %}} 2012.
+Milne, J. S. ["Fields and Galois Theory." (PDF)](http://www.jmilne.org/math/CourseNotes/FT.pdf) 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
 Affine and Projective Varieties
 {{< tdclose >}}{{< tdopen >}}
-Knapp, A. {{% resource_link "2025e9dc-c698-443d-b572-0cbfb6bbd810" "*Advanced Algebra*" %}}. Birkhäuser, 2007. ISBN: 9780817645229.
+Knapp, A. [*Advanced Algebra*](http://dx.doi.org/10.1007/978-0-8176-4613-4). Birkhäuser, 2007. ISBN: 9780817645229.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}
 Zariski Topology, Morphisms of Affine Varieties and Affine Algebras
 {{< tdclose >}}{{< tdopen >}}
-Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with {{% resource_link "ced8fb77-c641-40f8-adeb-a4aaeba889fc" "Google Books" %}}\]
+Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -137,7 +137,7 @@ Rational Maps and Function Fields
 Products of Varieties and Chevalley's criterion for Completeness
 {{< tdclose >}}{{< tdopen >}}
 
-Atiyah, M. F., and I. G. Mac Donald. *Introduction to Commutative Algebara*. Westview Press, 1994. ISBN: 9780201407518. \[Preview with {{% resource_link "a51c5bc6-3fb3-4c1f-a067-02a0523d962e" "Google Books" %}}\]
+Atiyah, M. F., and I. G. Mac Donald. *Introduction to Commutative Algebara*. Westview Press, 1994. ISBN: 9780201407518. \[Preview with [Google Books](http://books.google.com/books?id=nI84DgAAQBAJ&pg=PAfrontcover)\]
 
 Bump, D. *Algebraic Geometry.* World Scientific Publishing Company, 1998. ISBN: 9789810235611.
 
@@ -162,7 +162,7 @@ Serre, J. P. *Local Fields*. Springer, 1979. ISBN: 9781475756753.
 {{< tdclose >}}{{< tdopen >}}
 Divisors, The Picard Group
 {{< tdclose >}}{{< tdopen >}}
-Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with {{% resource_link "45815b63-3985-46dc-b337-2e9de9e6db6a" "Google Books" %}}\]
+Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with [Google Books](http://books.google.com/books?id=rLTXgNfa4pwC&printsec=frontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -171,14 +171,14 @@ Degree Theorem for Morphisms of Curves
 
 Shafarevich, I. R., and Miles Reid. *Basic Algebraic Geometry I*. 3rd ed. Springer-Verlag, 2013. ISBN: 9783642379550.
 
-Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with {{% resource_link "45815b63-3985-46dc-b337-2e9de9e6db6a" "Google Books" %}}\]
+Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with [Google Books](http://books.google.com/books?id=rLTXgNfa4pwC&printsec=frontcover)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
 Riemann-Roch Spaces
 {{< tdclose >}}{{< tdopen >}}
-Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with {{% resource_link "45815b63-3985-46dc-b337-2e9de9e6db6a" "Google Books" %}}\]
+Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with [Google Books](http://books.google.com/books?id=rLTXgNfa4pwC&printsec=frontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -187,7 +187,7 @@ Proof of the Riemann-Roch Theorem for Curves
 
 Shafarevich, I. R., and Miles Reid. *Basic Algebraic Geometry I*. 3rd ed. Springer-Verlag, 2013. ISBN: 9783642379550.
 
-Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with {{% resource_link "45815b63-3985-46dc-b337-2e9de9e6db6a" "Google Books" %}}\]
+Stichtenoth, H. *Algebraic Function Fields and Codes*. Springer, 2008. ISBN: 9781475756753. \[Preview with [Google Books](http://books.google.com/books?id=rLTXgNfa4pwC&printsec=frontcover)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -197,14 +197,14 @@ Elliptic Curves and Abelian Varieties
 
 Shafarevich, I. R., and Miles Reid. *Basic Algebraic Geometry I*. 3rd ed. Springer-Verlag, 2013. ISBN: 9783642379550.
 
-Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with {{% resource_link "ced8fb77-c641-40f8-adeb-a4aaeba889fc" "Google Books" %}}\]
+Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 Isogenies and Torsion Points, The Nagell-Lutz Theorem
 {{< tdclose >}}{{< tdopen >}}
-Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with {{% resource_link "ced8fb77-c641-40f8-adeb-a4aaeba889fc" "Google Books" %}}\]
+Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
@@ -213,12 +213,12 @@ The Mordell-Weil Theorem
 
 Serre, J. P. *Lectures on the Mordell-Weil Theorem*. 3rd ed. Teubner Verlag, 1997. ISBN: 9783663106340.
 
-Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with {{% resource_link "ced8fb77-c641-40f8-adeb-a4aaeba889fc" "Google Books" %}}\]
+Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
 Jacobians of Genus One Curves, The Weil-Chatelet and Tate-Shafarevich Groups
 {{< tdclose >}}{{< tdopen >}}
-Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with {{% resource_link "ced8fb77-c641-40f8-adeb-a4aaeba889fc" "Google Books" %}}\]
+Silverman, Joseph H. *The Arithmetic of Elliptic Curves*. 2nd ed. Springer-Verlag, 2009. ISBN: 9780387094939. \[Preview with [Google Books](http://books.google.com/books?id=Z90CA_EUCCkC&pg=PAfrontcover)\]
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
