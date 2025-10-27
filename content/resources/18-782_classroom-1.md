@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-782-introduction-to-arithmetic-geometry-fall-2013/cd2ebe655fd16ddef87486cc942cbd9a_18-782_classroom-1.jpg
 file_size: 24664
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: This is a special file that contains information regarding lecture 
 file: /courses/18-782-introduction-to-arithmetic-geometry-fall-2013/00f47db0a81abb004c12a2cee772109c_18.782_Lecture_3.sws
 file_size: 1557
 file_type: application/x-bzip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
