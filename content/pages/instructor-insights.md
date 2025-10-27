@@ -3,8 +3,6 @@ content_type: page
 description: This section provides insights and information about the course from
   the instructors.
 draft: false
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -56,7 +54,7 @@ Each problem set included a brief survey at the end to collect the students’ f
 
 ### Requirements Satisfied
 
-18.782 can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/degree-charts/mathematics-course-18/).
+18.782 can be applied toward a {{% resource_link "7b356a26-ad25-4bfe-9243-0e5aaf73708a" "Bachelor of Science in Mathematics" %}}.
 
 ### Offered
 
@@ -87,7 +85,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 ### In Class
 
 - Met 2 times per week for 1.5 hours per session; 26 sessions total.
-- Several of the lectures included interactive sessions using [Sage](http://sagemath.org/). The Sage worksheets are listed in the {{% resource_link 276fb8e9-5426-093b-04af-2643fa3757df "lecture notes" %}} section.
+- Several of the lectures included interactive sessions using {{% resource_link "418c24be-8e99-44c9-baf7-1d1235fa93b6" "Sage" %}}. The Sage worksheets are listed in the {{% resource_link 276fb8e9-5426-093b-04af-2643fa3757df "lecture notes" %}} section.
 
 ### Out of Class
 
